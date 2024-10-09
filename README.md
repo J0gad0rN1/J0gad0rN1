@@ -20,4 +20,4 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
 
-![Snake animation](https://github.com/LuigiGf/J0gad0rN1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGf/LuigiGf/blob/output/github-contribution-grid-snake.svg)
